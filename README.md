@@ -1,2 +1,2 @@
-# Sugestão Senhas
+# Ajuda Senhas
 ## para o utilizador criar senhas super seguras
